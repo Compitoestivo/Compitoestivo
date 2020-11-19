@@ -1,4 +1,5 @@
 print("FLICK IL LADRO")
+print("Ciao")
 contatore=0
 borsa=[]
 bag=[]
